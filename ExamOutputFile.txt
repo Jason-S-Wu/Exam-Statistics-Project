@@ -1,0 +1,10 @@
++------------+-----------------+-----------------+----------------+----------------------+----------------------+---------------------------+-------+
+| Student ID | Questions Right | Questions Wrong | Total Answered | Answered Correct Pct |  Questions Omitted   |    More Right or Wrong    | Score |
++------------+-----------------+-----------------+----------------+----------------------+----------------------+---------------------------+-------+
+|    1234    |        20       |        5        |       25       |         80.0         | More than 10 Omitted |   More Right than Wrong   |   40  |
+|    6969    |        50       |        0        |       50       |        100.0         | Less than 10 Omitted |   More Right than Wrong   |  100  |
+|    1111    |        49       |        1        |       50       |         98.0         | Less than 10 Omitted |   More Right than Wrong   |   98  |
+|    1122    |        25       |        25       |       50       |         50.0         | Less than 10 Omitted | Right and Wrong are Equal |   50  |
+|    3432    |        23       |        23       |       46       |         50.0         | Less than 10 Omitted | Right and Wrong are Equal |   46  |
+|    7493    |        1        |        3        |       4        |         25.0         | More than 10 Omitted |   More Wrong than Write   |   2   |
++------------+-----------------+-----------------+----------------+----------------------+----------------------+---------------------------+-------+
